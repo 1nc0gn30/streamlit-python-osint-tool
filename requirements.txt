@@ -1,0 +1,13 @@
+streamlit==1.26.0
+pandas==2.1.1
+plotly==5.15.0
+opencage==2.0.0
+shodan==1.29.0
+numpy==1.26.0
+faker==18.9.0
+fonttools==4.42.1
+markdown-it-py==3.0.0
+tldextract==3.5.0
+watchdog==3.0.0
+tqdm==4.66.0
+requests==2.31.0

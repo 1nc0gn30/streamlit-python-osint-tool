@@ -1,0 +1,3 @@
+#!/home/neo/osint_social_eng_tool/venv/bin/python3
+from ldapdomaindump import convert
+convert.ldd2bloodhound()
