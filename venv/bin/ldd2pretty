@@ -1,3 +1,0 @@
-#!/home/neo/osint_social_eng_tool/venv/bin/python3
-from ldapdomaindump import pretty
-pretty.main()
