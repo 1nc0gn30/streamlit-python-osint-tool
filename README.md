@@ -27,7 +27,7 @@ This toolkit is a web-based OSINT (Open Source Intelligence) and social engineer
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/1nc0gn30/streamlit-python-osint.git
-   cd https://github.com/1nc0gn30/streamlit-python-osint-tool
+   cd https://github.com/1nc0gn30/streamlit-python-osint-tool.git
 2. Install Dependencies:
 
 pip install -r requirements.txt
